@@ -1,0 +1,9 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\bin\Debug\WindowsDemoRelacionesObjetos.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\bin\Debug\WindowsDemoRelacionesObjetos.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\bin\Debug\WindowsDemoRelacionesObjetos.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\obj\Debug\WindowsDemoRelacionesObjetos.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\obj\Debug\WindowsDemoRelacionesObjetos.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\obj\Debug\WindowsDemoRelacionesObjetos.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\obj\Debug\WindowsDemoRelacionesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\obj\Debug\WindowsDemoRelacionesObjetos.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoRelacionesObjetos\obj\Debug\WindowsDemoRelacionesObjetos.pdb

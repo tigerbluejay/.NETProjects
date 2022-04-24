@@ -1,0 +1,10 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\bin\Debug\WindowsHerenciaClinica.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\bin\Debug\WindowsHerenciaClinica.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\bin\Debug\WindowsHerenciaClinica.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsHerenciaClinica\obj\Debug\WindowsHerenciaClinica.csproj.AssemblyReference.cache

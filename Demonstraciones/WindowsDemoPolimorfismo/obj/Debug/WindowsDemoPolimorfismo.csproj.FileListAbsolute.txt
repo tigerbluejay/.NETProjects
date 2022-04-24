@@ -1,0 +1,9 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\bin\Debug\WindowsDemoPolimorfismo.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\bin\Debug\WindowsDemoPolimorfismo.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\bin\Debug\WindowsDemoPolimorfismo.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\obj\Debug\WindowsDemoPolimorfismo.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\obj\Debug\WindowsDemoPolimorfismo.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\obj\Debug\WindowsDemoPolimorfismo.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\obj\Debug\WindowsDemoPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\obj\Debug\WindowsDemoPolimorfismo.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoPolimorfismo\obj\Debug\WindowsDemoPolimorfismo.pdb

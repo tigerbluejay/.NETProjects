@@ -1,0 +1,9 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\bin\Debug\WindowsDemo.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\bin\Debug\WindowsDemo.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\bin\Debug\WindowsDemo.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\obj\Debug\WindowsDemo.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\obj\Debug\WindowsDemo.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\obj\Debug\WindowsDemo.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\obj\Debug\WindowsDemo.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\obj\Debug\WindowsDemo.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemo\obj\Debug\WindowsDemo.pdb

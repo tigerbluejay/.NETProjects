@@ -1,0 +1,14 @@
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\bin\Debug\PresentacionWindows.exe.config
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\bin\Debug\PresentacionWindows.exe
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\bin\Debug\PresentacionWindows.pdb
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\bin\Debug\Datos.dll
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\bin\Debug\Datos.pdb
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\bin\Debug\Datos.dll.config
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.Form1.resources
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.Properties.Resources.resources
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CopyComplete
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.exe
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.pdb

@@ -1,0 +1,10 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\bin\Debug\WindowsProductos.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\bin\Debug\WindowsProductos.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\bin\Debug\WindowsProductos.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsProductos\obj\Debug\WindowsProductos.csproj.AssemblyReference.cache

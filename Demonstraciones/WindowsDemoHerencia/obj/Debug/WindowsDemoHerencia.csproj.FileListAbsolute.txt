@@ -1,0 +1,9 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\bin\Debug\WindowsDemoHerencia.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\bin\Debug\WindowsDemoHerencia.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\bin\Debug\WindowsDemoHerencia.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\obj\Debug\WindowsDemoHerencia.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\obj\Debug\WindowsDemoHerencia.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\obj\Debug\WindowsDemoHerencia.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\obj\Debug\WindowsDemoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\obj\Debug\WindowsDemoHerencia.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoHerencia\obj\Debug\WindowsDemoHerencia.pdb

@@ -1,0 +1,9 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\obj\Debug\WindowsEscuela.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\obj\Debug\WindowsEscuela.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\obj\Debug\WindowsEscuela.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\bin\Debug\WindowsEscuela.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\bin\Debug\WindowsEscuela.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\bin\Debug\WindowsEscuela.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\obj\Debug\WindowsEscuela.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsEscuela\obj\Debug\WindowsEscuela.pdb

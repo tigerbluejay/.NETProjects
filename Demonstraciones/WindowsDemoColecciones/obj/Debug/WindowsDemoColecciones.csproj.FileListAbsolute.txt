@@ -1,0 +1,9 @@
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\bin\Debug\WindowsDemoColecciones.exe.config
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\bin\Debug\WindowsDemoColecciones.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\bin\Debug\WindowsDemoColecciones.pdb
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\obj\Debug\WindowsDemoColecciones.Form1.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\obj\Debug\WindowsDemoColecciones.Properties.Resources.resources
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\obj\Debug\WindowsDemoColecciones.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\obj\Debug\WindowsDemoColecciones.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\obj\Debug\WindowsDemoColecciones.exe
+C:\Users\josem\source\repos\Demonstraciones\WindowsDemoColecciones\obj\Debug\WindowsDemoColecciones.pdb
