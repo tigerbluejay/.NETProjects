@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Datos.Consultas;
+using Datos.Models;
 
 namespace PresentacionWindows
 {
@@ -40,6 +41,40 @@ namespace PresentacionWindows
             else
             {
                 gridState.DataSource = DacStore.Listar(state);
+            }
+        }
+
+        private void btnInsertar_Click(object sender, EventArgs e)
+        {
+            Store store = new Store() { StoreId = "5001", StoreName = "A", StoreAddress = "Calle 7", City = "La Plata", State = "BS", Zip = "12345" };
+
+            int filasAfectadas = DacStore.Insertar(store);
+
+            if (filasAfectadas > 0)
+            {
+                MostrarTiendas();
+            }
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            Store store = new Store() { StoreId = "5001", StoreName = "AAA", StoreAddress = "Calle 7", City = "La Plata", State = "BS", Zip = "11111" };
+
+            int filasAfectadas = DacStore.Modificar(store);
+
+            if (filasAfectadas > 0)
+            {
+                MostrarTiendas();
+            }
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            string id = "5001";
+            int filasAfectadas = DacStore.Eliminar(id);
+            if (filasAfectadas > 0)
+            {
+                MostrarTiendas();
             }
         }
     }

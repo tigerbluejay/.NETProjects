@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Datos.Models
 {
-    //TODO Falta programar el modelo Store
+    
     public class Store
     {
         public string StoreId { get; set; }

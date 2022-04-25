@@ -12,3 +12,4 @@ C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWi
 C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CopyComplete
 C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.exe
 C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.pdb
+C:\Users\josem\source\repos\SLNPubs\PresentacionWindows\obj\Debug\PresentacionWindows.frmPublishers.resources
