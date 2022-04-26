@@ -1,0 +1,12 @@
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\obj\Debug\DatosEF.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\obj\Debug\DatosEF.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\DatosEF.dll.config
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\DatosEF.dll
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\DatosEF.pdb
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\EntityFramework.dll
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\EntityFramework.xml
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\obj\Debug\DatosEF.csproj.CopyComplete
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\obj\Debug\DatosEF.dll
+C:\Users\josem\source\repos\DemonstracionCapas\DatosEF\obj\Debug\DatosEF.pdb
