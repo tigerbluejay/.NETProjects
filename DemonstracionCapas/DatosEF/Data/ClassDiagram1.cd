@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DatosEF.Data.author">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAIAAAACAAAAAIAAEAkAAAAAAAQCAA=</HashCode>
+      <FileName>Data\author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosEF.Data.publisher">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQAAAAAAAAAAICAAAAAAAQAAGAAAAAAAAAAA=</HashCode>
+      <FileName>Data\publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosEF.Data.sale">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAAAYAAAAAAAAIAAAAAAAABAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>Data\sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosEF.Data.store">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAACAAAAABAAAAEABAAAAQAAAA=</HashCode>
+      <FileName>Data\store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosEF.Data.title">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEghAIAiRAAAAAAEAAAAAAgAAAABAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Data\title.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatosEF.Data.titleauthor">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQgAAACAAAAAAAIAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Data\titleauthor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

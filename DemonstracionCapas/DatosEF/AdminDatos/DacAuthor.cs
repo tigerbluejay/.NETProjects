@@ -42,7 +42,19 @@ namespace DatosEF.AdminDatos
             return autor;
         }
 
+        public static int Eliminar(string id)
+        {
+            author author = context.authors.Find(id);
+            context.authors.Remove(author);
+            return context.SaveChanges();
+        }
+
+        public static List<author> ListarPorLetraCiudad(string letra)
+        {
+            List<author> autores = (from a in context.authors
+                                    where a.city.StartsWith(letra)
+                                    select a).ToList();
+            return autores;
+        }
     }
-
-
 }

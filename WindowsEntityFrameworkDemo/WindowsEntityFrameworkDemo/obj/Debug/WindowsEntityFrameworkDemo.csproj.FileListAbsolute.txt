@@ -1,0 +1,16 @@
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\WindowsEntityFrameworkDemo.exe.config
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\WindowsEntityFrameworkDemo.exe
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\WindowsEntityFrameworkDemo.pdb
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Properties.Resources.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.CopyComplete
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.exe
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.pdb
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.initial.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.CambioTipoDatosNombre.resources

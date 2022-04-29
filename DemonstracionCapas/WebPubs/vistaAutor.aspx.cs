@@ -23,7 +23,9 @@ namespace WebPubs
 
         private void MostrarTodos()
         {
-            gridAuthor.DataSource = DacAuthor.Listar();
+            //gridAuthor.DataSource = DacAuthor.Listar();
+            //gridAuthor.DataBind();
+            gridAuthor.DataSource = DacAuthor.ListarPorLetraCiudad(txtLetra.Text);
             gridAuthor.DataBind();
         }
 
@@ -41,10 +43,18 @@ namespace WebPubs
 
         protected void btnInsertar_Click(object sender, EventArgs e)
         {
-            author author = new author() { au_id = "172-32-8888", 
-                au_lname = "Juan", au_fname = "Perez", phone = "123-1211", 
-                address = "Calle 10", city = "La Plata", state = "BS", 
-                zip = "94025", contract = true };
+            author author = new author()
+            {
+                au_id = "172-32-8888",
+                au_lname = "Juan",
+                au_fname = "Perez",
+                phone = "123-1211",
+                address = "Calle 10",
+                city = "La Plata",
+                state = "BS",
+                zip = "94025",
+                contract = true
+            };
 
             int filasAfectadas = DacAuthor.Insertar(author);
 
@@ -55,5 +65,14 @@ namespace WebPubs
 
         }
 
+        protected void btnEliminar_Click(object sender, EventArgs e)
+        {
+            string id = "172-32-8888";
+            int filasAfectadas = DacAuthor.Eliminar(id);
+            if (filasAfectadas > 0)
+            {
+                MostrarTodos();
+            }
+        }
     }
 }

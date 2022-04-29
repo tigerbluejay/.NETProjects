@@ -9,10 +9,12 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:TextBox ID="txtLetra" runat="server"></asp:TextBox>
             <asp:Button ID="btnListar" runat="server" Text="Listar" OnClick="btnListar_Click" />
             <asp:Button ID="btnLintarCity" runat="server" Text="Listar por ciudad" OnClick="btnLintarCity_Click" />
             <asp:Button ID="btnTraerUno" runat="server" Text="Traer uno" OnClick="btnTraerUno_Click" />
             <asp:Button ID="btnInsertar" runat="server" Text="Insertar" OnClick="btnInsertar_Click" />
+            <asp:Button ID="btnEliminar" runat="server" OnClick="btnEliminar_Click" Text="Eliminar" />
             <br />
             <asp:Label ID="lblMensaje" runat="server"></asp:Label>
             <br />
