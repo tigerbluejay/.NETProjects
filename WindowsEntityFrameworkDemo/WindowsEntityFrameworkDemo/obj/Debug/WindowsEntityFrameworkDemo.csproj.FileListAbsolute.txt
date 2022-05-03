@@ -5,7 +5,6 @@ C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDem
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.xml
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.AssemblyReference.cache
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Properties.Resources.resources
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.GenerateResource.cache
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.CoreCompileInputs.cache
@@ -14,3 +13,6 @@ C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDem
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.pdb
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.initial.resources
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.CambioTipoDatosNombre.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.bdRelaciones.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.FKDataAnnotation.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.ModelosAdicionales.resources

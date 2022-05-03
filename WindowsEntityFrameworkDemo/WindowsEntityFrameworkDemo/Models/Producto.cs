@@ -19,6 +19,14 @@ namespace WindowsEntityFrameworkDemo.Models
         public string Nombre { get; set; }
         [Column(TypeName ="Money")]
         public decimal Precio { get; set; }
+        // si no incluimos CategoriaId, Entity
+        // lo generara automaticamente en las tablas
+        
         public int CategoriaId { get; set; }
+        #region propiedades de navegacion ORM
+        [ForeignKey("CategoriaId")]
+        public Categoria Categoria { get; set; }
+        #endregion
+        public List<FacturaDetalle> FacturaDetalles { get; set; }
     }
 }

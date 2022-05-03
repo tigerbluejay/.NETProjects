@@ -68,9 +68,25 @@
     <Compile Include="Migrations\202204291915568_CambioTipoDatosNombre.Designer.cs">
       <DependentUpon>202204291915568_CambioTipoDatosNombre.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202205032024445_bdRelaciones.cs" />
+    <Compile Include="Migrations\202205032024445_bdRelaciones.Designer.cs">
+      <DependentUpon>202205032024445_bdRelaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202205032039593_FKDataAnnotation.cs" />
+    <Compile Include="Migrations\202205032039593_FKDataAnnotation.Designer.cs">
+      <DependentUpon>202205032039593_FKDataAnnotation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202205032124439_ModelosAdicionales.cs" />
+    <Compile Include="Migrations\202205032124439_ModelosAdicionales.Designer.cs">
+      <DependentUpon>202205032124439_ModelosAdicionales.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Categoria.cs" />
+    <Compile Include="Models\Cliente.cs" />
+    <Compile Include="Models\Factura.cs" />
+    <Compile Include="Models\FacturaDetalle.cs" />
     <Compile Include="Models\Producto.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Migrations\202204291909168_initial.resx">
@@ -78,6 +94,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202204291915568_CambioTipoDatosNombre.resx">
       <DependentUpon>202204291915568_CambioTipoDatosNombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205032024445_bdRelaciones.resx">
+      <DependentUpon>202205032024445_bdRelaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205032039593_FKDataAnnotation.resx">
+      <DependentUpon>202205032039593_FKDataAnnotation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205032124439_ModelosAdicionales.resx">
+      <DependentUpon>202205032124439_ModelosAdicionales.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

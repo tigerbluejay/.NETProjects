@@ -8,17 +8,21 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WindowsEntityFrameworkDemo.Models
 {
-    [Table("Categoria")]
-    public class Categoria
+    [Table("Cliente")]
+    public class Cliente
     {
-        public int Id { get; set; }
+        public int Id { get; set;}
         [Required] // no acepta nulos
         [Column(TypeName = "VarChar")]
         [StringLength(50)]
+        public string Apellido { get; set; }
+        [Column(TypeName = "VarChar")]
+        [StringLength(50)]
         public string Nombre { get; set; }
+        public DateTime FechadeNacimiento { get; set; }
 
-        #region propiedades de navegacion ORM
-        public List<Producto> Productos { get; set;}
-        #endregion
+        public List<Factura> Facturas { get; set; }
+        [Required]
+        public Usuario Usuario { get; set; }
     }
 }

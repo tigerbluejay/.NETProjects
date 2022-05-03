@@ -8,17 +8,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WindowsEntityFrameworkDemo.Models
 {
-    [Table("Categoria")]
-    public class Categoria
+    [Table("Usuario")]
+    public class Usuario
     {
         public int Id { get; set; }
-        [Required] // no acepta nulos
-        [Column(TypeName = "VarChar")]
-        [StringLength(50)]
         public string Nombre { get; set; }
-
-        #region propiedades de navegacion ORM
-        public List<Producto> Productos { get; set;}
-        #endregion
+        public string Password { get; set; }
+        public Cliente Cliente { get; set; }
     }
+    
 }
