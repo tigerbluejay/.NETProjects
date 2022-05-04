@@ -80,9 +80,24 @@
     <Compile Include="Migrations\202205032124439_ModelosAdicionales.Designer.cs">
       <DependentUpon>202205032124439_ModelosAdicionales.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202205041657075_FluentApiEmpleadoCambios.cs" />
+    <Compile Include="Migrations\202205041657075_FluentApiEmpleadoCambios.Designer.cs">
+      <DependentUpon>202205041657075_FluentApiEmpleadoCambios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202205041735192_FluentAPIMapping.cs" />
+    <Compile Include="Migrations\202205041735192_FluentAPIMapping.Designer.cs">
+      <DependentUpon>202205041735192_FluentAPIMapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202205041740196_FixedDetails.cs" />
+    <Compile Include="Migrations\202205041740196_FixedDetails.Designer.cs">
+      <DependentUpon>202205041740196_FixedDetails.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Categoria.cs" />
+    <Compile Include="Models\Ciudad.cs" />
     <Compile Include="Models\Cliente.cs" />
+    <Compile Include="Models\Comision.cs" />
+    <Compile Include="Models\Empleado.cs" />
     <Compile Include="Models\Factura.cs" />
     <Compile Include="Models\FacturaDetalle.cs" />
     <Compile Include="Models\Producto.cs" />
@@ -103,6 +118,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202205032124439_ModelosAdicionales.resx">
       <DependentUpon>202205032124439_ModelosAdicionales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205041657075_FluentApiEmpleadoCambios.resx">
+      <DependentUpon>202205041657075_FluentApiEmpleadoCambios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205041735192_FluentAPIMapping.resx">
+      <DependentUpon>202205041735192_FluentAPIMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205041740196_FixedDetails.resx">
+      <DependentUpon>202205041740196_FixedDetails.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

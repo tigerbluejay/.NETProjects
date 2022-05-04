@@ -18,5 +18,7 @@ namespace WindowsEntityFrameworkDemo.Models
         public Cliente Cliente { get; set; }
 
         public List<FacturaDetalle> FacturaDetalles { get; set; }
+
+        public Empleado Empleado { get; set; }
     }
 }

@@ -19,10 +19,13 @@ namespace WindowsEntityFrameworkDemo.Models
         [Column(TypeName = "VarChar")]
         [StringLength(50)]
         public string Nombre { get; set; }
-        public DateTime FechadeNacimiento { get; set; }
+        public DateTime? FechadeNacimiento { get; set; }
 
         public List<Factura> Facturas { get; set; }
+        
         [Required]
         public Usuario Usuario { get; set; }
+
+        public Ciudad Ciudad { get; set; }
     }
 }
