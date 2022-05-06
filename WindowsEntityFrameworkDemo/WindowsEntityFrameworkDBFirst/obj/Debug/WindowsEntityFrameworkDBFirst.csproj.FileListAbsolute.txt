@@ -1,0 +1,15 @@
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\WindowsEntityFrameworkDBFirst.exe.config
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\WindowsEntityFrameworkDBFirst.exe
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\WindowsEntityFrameworkDBFirst.pdb
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.Form1.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.Properties.Resources.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.csproj.CopyComplete
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.exe
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.pdb
