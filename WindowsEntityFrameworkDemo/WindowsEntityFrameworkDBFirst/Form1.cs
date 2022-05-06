@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.Entity;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -44,6 +45,7 @@ namespace WindowsEntityFrameworkDBFirst
             if (filasAfectadas > 0)
             {
                 MessageBox.Show("Insert OK");
+                MostrarTiendas();
             }
 
 
@@ -62,6 +64,9 @@ namespace WindowsEntityFrameworkDBFirst
                 zip = "12345"
             };
 
+            // Entity State
+            context.Entry(storetoDelete).State = EntityState.Deleted;
+
             context.Stores.Remove(storetoDelete);
             
             int filasAfectadas = context.SaveChanges();
@@ -69,7 +74,54 @@ namespace WindowsEntityFrameworkDBFirst
             if (filasAfectadas > 0)
             {
                 MessageBox.Show("Delete OK");
+                MostrarTiendas();
             }
+        }
+
+        private void btnEliminar2_Click(object sender, EventArgs e)
+        {
+            // Buscar el Store id 8888
+            string storeId = "8888";
+            Store store = context.Stores.Find(storeId);
+            context.Stores.Remove(store);
+            int filasAfectadas = context.SaveChanges();
+
+            if (filasAfectadas > 0)
+            {
+                MessageBox.Show("Delete OK");
+                MostrarTiendas();
+            }
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            string storeid = "6380";
+            Store store = context.Stores.Find(storeid);
+
+            store.stor_name = "Eric the Road";
+            store.stor_address = "323 Oak St.";
+            int filasAfectadas = context.SaveChanges();
+
+            if (filasAfectadas > 0)
+            {
+                MessageBox.Show("Update OK");
+                MostrarTiendas();
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MostrarTiendas();
+        }
+
+        private void MostrarTiendas()
+        {
+            // conecta a la db, hace un select
+            // retorna una lista de stores y se desconecta
+            // a esto se le llama materializar datos, proyectar datos
+            List<Store> stores = context.Stores.ToList();
+
+            gridStore.DataSource = stores;
         }
     }
 }

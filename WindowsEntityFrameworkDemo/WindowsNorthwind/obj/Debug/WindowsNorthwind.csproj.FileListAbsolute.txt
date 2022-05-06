@@ -1,0 +1,15 @@
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.Form1.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.Properties.Resources.resources
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.csproj.GenerateResource.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\WindowsNorthwind.exe.config
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\WindowsNorthwind.exe
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\WindowsNorthwind.pdb
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\EntityFramework.dll
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\EntityFramework.xml
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.csproj.CopyComplete
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.exe
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsNorthwind\obj\Debug\WindowsNorthwind.pdb
