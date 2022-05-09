@@ -16,7 +16,6 @@ C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDem
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.bdRelaciones.resources
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.FKDataAnnotation.resources
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.ModelosAdicionales.resources
-C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.csproj.AssemblyReference.cache
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.FluentApiEmpleadoCambios.resources
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.FluentAPIMapping.resources
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDemo\obj\Debug\WindowsEntityFrameworkDemo.Migrations.FixedDetails.resources

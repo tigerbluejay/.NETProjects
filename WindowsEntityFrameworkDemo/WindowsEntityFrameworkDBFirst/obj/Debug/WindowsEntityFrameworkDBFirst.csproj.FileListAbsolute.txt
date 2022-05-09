@@ -13,3 +13,4 @@ C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBF
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.csproj.CopyComplete
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.exe
 C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.pdb
+C:\Users\josem\source\repos\WindowsEntityFrameworkDemo\WindowsEntityFrameworkDBFirst\obj\Debug\WindowsEntityFrameworkDBFirst.frmLinq.resources
